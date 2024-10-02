@@ -1,0 +1,15 @@
+# Advanced Portfolio Manager
+
+This project aims to develop an advanced AI-powered portfolio management system that can analyze markets, make investment decisions, and provide real-time insights for optimal portfolio performance.
+
+## Key Features:
+- AI-based investment strategies
+- Portfolio performance analytics
+- Risk management
+- Multi-market integration
+
+## Roadmap:
+1. Phase 1: Initial AI model development
+2. Phase 2: Backend architecture setup
+3. Phase 3: Frontend and user interface
+4. Phase 4: Real-time data integration
