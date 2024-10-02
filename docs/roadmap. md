@@ -1,0 +1,18 @@
+## Roadmap for Advanced Portfolio Manager
+
+### Phase 1: AI Model Development
+- Define investment strategies (e.g., value investing, growth investing)
+- Train models on historical data
+- Validate model accuracy and performance
+
+### Phase 2: Backend Development
+- Develop API for model integration
+- Implement portfolio tracking and management features
+
+### Phase 3: Frontend Development
+- Design the user interface for easy interaction
+- Dashboard for real-time monitoring
+
+### Phase 4: Real-Time Data Integration
+- Connect to financial market APIs (e.g., stock prices, news)
+- Automate portfolio adjustments based on AI analysis
